@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title> Tus Recetas En Segundos </title>
-G-PDTF6E2BJX
+<title> G-PDTF6E2BJX </title>
 {% include analytics.html %}
 </head>
 <meta charset=utf-8>
