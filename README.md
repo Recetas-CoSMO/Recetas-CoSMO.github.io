@@ -16,9 +16,5 @@
 <meta http-equiv=refresh content="0; url=https://acphd-web-media.s3-us-west-2.amazonaws.com/media/programs-services/diabetes/docs/recetas-latinas-hechas-con-amor.pdf">
 
 
-<style scoped>
-.whiteText {background-color:black;color:white;}
-</style>
-<p class="whiteText">White text</p>
 
 
